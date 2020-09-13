@@ -1,5 +1,7 @@
 <template>
-    $END$
+    <DIV>
+        Home
+    </DIV>
 </template>
 
 <script>
@@ -8,6 +10,6 @@
     }
 </script>
 
-<style scoped>
+<style lang="less" scoped>
 
 </style>
